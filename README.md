@@ -1,2 +1,0 @@
-# Komputasi-BW
-Latihan/tugas
